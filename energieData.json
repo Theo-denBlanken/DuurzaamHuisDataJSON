@@ -1,0 +1,200 @@
+[
+    {
+        "tijd": "Date.parse('13 Jan 2021 15:30')",
+        "tempBuiten": 5,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    },
+    {
+        "tijd": "Date.parse('13 Jan 2021 15:40')",
+        "tempBuiten": 5,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 15:50')",
+        "tempBuiten": 5,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 16:00')",
+        "tempBuiten": 5,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 16:10')",
+        "tempBuiten": 5,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    },  {
+        "tijd": "Date.parse('13 Jan 2021 16:20')",
+        "tempBuiten": 4,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 16:30')",
+        "tempBuiten": 4,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 16:40')",
+        "tempBuiten": 4,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": true
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 16:50')",
+        "tempBuiten": 4,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": true
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 17:00')",
+        "tempBuiten": 4,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 17:10')",
+        "tempBuiten": 3,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 17:10')",
+        "tempBuiten": 3,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 17:20')",
+        "tempBuiten": 3,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('13 Jan 2021 17:30')",
+        "tempBuiten": 3,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 6:30')",
+        "tempBuiten": 3,
+        "tempBinnen": 16,
+        "tempGewenst": 16,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 6:40')",
+        "tempBuiten": 3,
+        "tempBinnen": 16,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 6:50')",
+        "tempBuiten": 3,
+        "tempBinnen": 16,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 7:00')",
+        "tempBuiten": 3,
+        "tempBinnen": 17,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 7:10')",
+        "tempBuiten": 3,
+        "tempBinnen": 17,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 7:20')",
+        "tempBuiten": 3,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 7:30')",
+        "tempBuiten": 4,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 7:40')",
+        "tempBuiten": 4,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 7:50')",
+        "tempBuiten": 4,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 8:00')",
+        "tempBuiten": 4,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 8:10')",
+        "tempBuiten": 4,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 8:20')",
+        "tempBuiten": 4,
+        "tempBinnen": 18,
+        "tempGewenst": 19,
+        "lichtKamer": true,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 8:30')",
+        "tempBuiten": 5,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }, {
+        "tijd": "Date.parse('4 Feb 2021 8:40')",
+        "tempBuiten": 6,
+        "tempBinnen": 19,
+        "tempGewenst": 19,
+        "lichtKamer": false,
+        "lichtBuiten": false
+    }
+    ]
